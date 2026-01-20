@@ -3,7 +3,7 @@
 🎓 **Master’s in Computer Science @ University of Illinois at Chicago (UIC)** | Expected May 2027  
 💻 **Passionate about Software Engineering, ML, and Scalable Systems**
 
-You can check out my [Resume](http://dhruv-mehta.vercel.app) here.  
+You can check out my [Portfolio](http://dhruv-mehta.vercel.app) here.  
 
 ## 🌱 Currently Learning
 - Large Language Models (LLMs) and Retrieval-Augmented Generation  
@@ -17,8 +17,9 @@ I love **hackathons, AI, and building scalable systems** that make life easier a
 ## 📫 Let’s Connect
 If you have an exciting project or collaboration in mind, feel free to reach out—**let’s build something extraordinary together!**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DhruvMehta-blue?logo=linkedin)](https://www.linkedin.com/in/dhruv-mehta-1798471b0/)  
-[![GitHub](https://img.shields.io/badge/GitHub-DhruvMehta-black?logo=github)](https://github.com/DhruvMehta323)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-mehta-1798471b0/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/DhruvMehta323)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dmeht35@uic.edu)
 
 
 

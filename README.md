@@ -3,7 +3,7 @@
 🎓 **Master’s in Computer Science @ University of Illinois at Chicago (UIC)** | Expected May 2027  
 💻 **Passionate about Software Engineering, ML, and Scalable Systems**
 
-You can check out my [Resume](http://dhruv-mehta.vercel.app/resume) here.  
+You can check out my [Resume](http://dhruv-mehta.vercel.app) here.  
 
 ## 🌱 Currently Learning
 - Large Language Models (LLMs) and Retrieval-Augmented Generation  

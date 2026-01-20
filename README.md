@@ -6,9 +6,10 @@
 You can check out my [Portfolio](http://dhruv-mehta.vercel.app) here.  
 
 ## 🌱 Currently Learning
-- Large Language Models (LLMs) and Retrieval-Augmented Generation  
-- Advanced 3D computer vision techniques  
-- Cloud-native system optimizations and distributed architectures  
+- Real-world automation using Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)  
+- Advanced 3D Computer Vision and AR/VR techniques  
+- System Design and scalable architectures
+
 
 
 ### ⚡ Fun Fact

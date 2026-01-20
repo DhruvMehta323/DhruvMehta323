@@ -1,4 +1,27 @@
-## Hi there 👋
+# Hi, I'm Dhruv Mehta 👋
+
+🎓 **Master’s in Computer Science @ University of Illinois at Chicago (UIC)** | Expected May 2027  
+💻 **Passionate about Software Engineering, ML, and Scalable Systems**
+
+You can check out my [Resume](https://dhruv-mehta.vercel.app/resume) here.  
+
+## 🌱 Currently Learning
+- Large Language Models (LLMs) and Retrieval-Augmented Generation  
+- Advanced 3D computer vision techniques  
+- Cloud-native system optimizations and distributed architectures  
+
+
+### ⚡ Fun Fact
+I love **hackathons, AI, and building scalable systems** that make life easier and more creative 🚀
+
+## 📫 Let’s Connect
+If you have an exciting project or collaboration in mind, feel free to reach out—**let’s build something extraordinary together!**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DhruvMehta-blue?logo=linkedin)](https://www.linkedin.com/in/dhruv-mehta-1798471b0/)  
+[![GitHub](https://img.shields.io/badge/GitHub-DhruvMehta-black?logo=github)](https://github.com/DhruvMehta323)  
+
+
+
 
 <!--
 **DhruvMehta323/DhruvMehta323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

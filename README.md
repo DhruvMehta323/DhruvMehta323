@@ -24,7 +24,7 @@ If you have an exciting project or collaboration in mind, feel free to reach out
 
 
 
-
+![GitHub Streak](https://streak-stats.demolab.com?user=DhruvMehta323)
 <!--
 **DhruvMehta323/DhruvMehta323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,4 +38,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->

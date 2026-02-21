@@ -23,7 +23,6 @@ If you have an exciting project or collaboration in mind, feel free to reach out
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dmeht35@uic.edu)
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=DhruvMehta323&style=flat" alt="DhruvMehta323" /> 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DhruvMehta323)
 <!--
@@ -41,3 +40,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=DhruvMehta323&style=flat" alt="DhruvMehta323" /> 

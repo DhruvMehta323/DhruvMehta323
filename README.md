@@ -18,12 +18,15 @@ I love **hackathons, AI, and building scalable systems** that make life easier a
 ## 📫 Let’s Connect
 If you have an exciting project or collaboration in mind, feel free to reach out—**let’s build something extraordinary together!**  
 
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=DhruvMehta323&style=flat" alt="DhruvMehta323" />  -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-rmehta/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dhruv_M21/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dmeht35@uic.edu)
 
 
-
+<p align='center'>
+  <img src= "https://github-profile-trophy.vercel.app/?username=DhruvMehta323" alt="trophy">
+</p>
 ![GitHub Streak](https://streak-stats.demolab.com?user=DhruvMehta323)
 <!--
 **DhruvMehta323/DhruvMehta323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,4 +43,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=DhruvMehta323&style=flat" alt="DhruvMehta323" /> 

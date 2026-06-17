@@ -25,7 +25,7 @@ If you have an exciting project or collaboration in mind, feel free to reach out
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DhruvMehta323)
+![GitHub Streak](https://streak-stats.vercel.app?user=DhruvMehta323)
 <!--
 **DhruvMehta323/DhruvMehta323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
